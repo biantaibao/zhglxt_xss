@@ -1,4 +1,5 @@
-BUG_Author: biantaibao  
+BUG_Author: biantaibao    
+cms url: https://github.com/liuwy-dlsdys/zhglxt  
 Vulnerability url:POST /zhglxt/oa/notify/edit HTTP/1.1  
 POST form-data parameter name="notifyTitle" exists stored cross-site scripting  
 Steps to reproduce  
